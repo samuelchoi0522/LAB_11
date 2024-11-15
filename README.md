@@ -14,4 +14,4 @@ Tasks to answer in your own README.md that you submit on Canvas:
 1.  Make a printScreen of your eclipse JUnit5 plugin run (JUnit window at the bottom panel) 
 1.  Make a printScreen of your eclipse Maven test run, with console
 1.  What category of Exceptions is TimerException and what is NullPointerException
-1.  Push the updated/fixed source code to your own repository.
+1.  Push the updated/fixed source code to your own repository.          
